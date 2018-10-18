@@ -45,5 +45,6 @@ Remis par:
 
 ---
 
-[Introduction](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
-[Comment faire des tests unitaires](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/MOCHA.md)
+* [Introduction](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
+
+* [Comment faire des tests unitaires](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/MOCHA.md)
