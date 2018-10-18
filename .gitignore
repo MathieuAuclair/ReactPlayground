@@ -1,4 +1,7 @@
 # Node modules
 
-/node_modules/
+/node_modules
+/build
+/.idea
+
 packages-lock.json
