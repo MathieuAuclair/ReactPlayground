@@ -1,0 +1,17 @@
+sudo: required
+dist: trusty
+addons:
+  apt:
+    sources:
+    - google-chrome
+    packages:
+    - google-chrome-stable
+language: node_js
+node_js:
+- "8.12.0"
+install:
+- npm install
+script:
+- npm start
+- npm run test:unit
+- npm run test:e2e
