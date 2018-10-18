@@ -35,5 +35,11 @@
   "bugs": {
     "url": "https://github.com/MathieuAuclair/ReactPlayground/issues"
   },
-  "homepage": "https://github.com/MathieuAuclair/ReactPlayground#readme"
+  "homepage": "https://github.com/MathieuAuclair/ReactPlayground#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
