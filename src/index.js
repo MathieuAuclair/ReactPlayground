@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import ReactDOM from 'react-dom';
 import LocationPicker from 'react-location-picker';
 
 const defaultPosition = {
@@ -45,4 +46,4 @@ class LocationPickerExample extends Component {
     }
 }
 
-new LocationPickerExample().render();
+ReactDOM.render(<LocationPickerExample />, document.getElementById('root'));
