@@ -42,3 +42,8 @@ Remis par:
 
 #### Cégep de Jonquière
 ### octobre 2018
+
+---
+
+[](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
+[](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/MOCHA.md)
