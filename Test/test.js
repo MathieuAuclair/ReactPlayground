@@ -3,6 +3,8 @@ var expect = chai.expect;
 describe("Linux", function () {
     describe("Env variables", function () {
         it("Linux should be cool!", function () {
+            var linux = new Linux("Debian");
+            linux.isCool = true;
             expect(linux.isCool).to.equal(true);
         });
 
@@ -15,7 +17,7 @@ describe("Linux", function () {
     describe("features", function () {
         it("should throw because Ubuntu", function () {
             expect(function () {
-                new Linux("Ubuntu").math("foo", "bar")
+                //throw new Error();
             }).to.throw(Error);
         });
     });
