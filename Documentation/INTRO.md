@@ -53,6 +53,6 @@ Jest permet de créer des tests unitaire, fonctionnel, de deploiment, ainsi que 
 
 ---
 
-* [Retour à la page titre](https://github.com/MathieuAuclair/ReactPlayground/edit/master/Documentation/FRONTPAGE.md)
+* [Retour à la page titre](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/FRONTPAGE.md)
 
-* [Tester le frontend avec l'outil d'analyse mocha](https://github.com/MathieuAuclair/ReactPlayground/edit/master/Documentation/MOCHA.md)
+* [Tester le frontend avec l'outil d'analyse mocha](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/MOCHA.md)
