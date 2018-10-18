@@ -88,5 +88,6 @@ Have fun!
 
 ---
 
-[Retourner à la page titre](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/FRONTEND.md)
-[Aller à l'introduction](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
+* [Retourner à la page titre](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/FRONTEND.md)
+
+* [Aller à l'introduction](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
