@@ -13,5 +13,4 @@ install:
 - npm install
 script:
 - npm start
-- npm run test:unit
-- npm run test:e2e
+- npm run test
