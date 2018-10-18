@@ -85,3 +85,8 @@ Pour vérifier le status des tests, simplement ouvrir ```test.html``` !
 Vous avez maintenant une configuration de test "Frontend" appropriée, vous pouvez la modifier un peu pour l'adapter à vos besoins. Mocha peut également être utilisé comme configuration de test NodeJs, consultez la documentation Mocha à ce sujet.
 
 Have fun!
+
+---
+
+[Retourner à la page titre](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/FRONTEND.md)
+[Aller à l'introduction](https://github.com/MathieuAuclair/ReactPlayground/blob/master/Documentation/INTRO.md)
